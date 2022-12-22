@@ -1,6 +1,10 @@
 # EJERCICIOS--JAVA
 
 
+Encontrarás  sobre los siguientes ejercicios implementación de clases abstractas, patrones de diseño(FACTORY- SINGLETON-COMPOSITE), captura de errores (Exceptions), interfaces, constantes, Collection e Instanciaciones.
+
+
+
 Ejercicio 1 (Empresa-Empleados-relacionesDeTrabajo):
 
 Modelar y programar en Java la implementación del Patrón de Diseño Factory.
